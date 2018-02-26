@@ -1,0 +1,19 @@
+{
+  "name": "collabbruh",
+  "version": "1.0.0",
+  "description": "React, Node, Postgres App - Make an artist profile and find others to collab on projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bterbs/CollabBruh.git"
+  },
+  "author": "Brittany TerBush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bterbs/CollabBruh/issues"
+  },
+  "homepage": "https://github.com/bterbs/CollabBruh#readme"
+}
