@@ -12,3 +12,8 @@
  it('renders without crashing', () => {
   shallow(<App />);
  });
+
+ it('matches the snapshot', () => {
+  shallow(<App />);
+  expect(<App />).toMatchSnapshot;
+ });
