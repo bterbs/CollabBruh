@@ -4,7 +4,8 @@ import ReactDOM from 'react-dom'
 export default class App extends Component {
   render() {
     return (
-      <div>You ready to Collab?
+      <div>
+        <p>You ready to Collab?</p>
       </div>
     )
   }

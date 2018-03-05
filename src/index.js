@@ -8,7 +8,7 @@ console.log('==============>running index.js!!')
 
 //tell React to render HTML in the DOM
 ReactDOM.render(
-  <Router>
+  <div>
     <App />
-  </Router>
+  </div>
 , document.querySelector('.container'))
